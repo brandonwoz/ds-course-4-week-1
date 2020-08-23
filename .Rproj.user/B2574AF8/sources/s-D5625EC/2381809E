@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1598207979742.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3578849972",
+    "id" : "2381809E",
+    "lastKnownWriteTime" : 1598208061,
+    "last_content_update" : 1598208061173,
+    "path" : "~/Google Drive/ds/r-projects/coursera/course-4/week-1-assignment/README.Rmd",
+    "project_path" : "week-1-assignment/README.Rmd",
+    "properties" : {
+        "cursorPosition" : "15,68",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
