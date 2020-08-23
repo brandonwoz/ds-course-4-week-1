@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1598207481840.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "212232678",
+    "id" : "ACDE1610",
+    "lastKnownWriteTime" : 1598207500,
+    "last_content_update" : 1598207500829,
+    "path" : "~/Google Drive/ds/r-projects/coursera/course-4/week-1-assignment/plot_4.R",
+    "project_path" : "week-1-assignment/plot_4.R",
+    "properties" : {
+        "cursorPosition" : "15,11",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
