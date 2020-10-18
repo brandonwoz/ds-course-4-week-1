@@ -1,0 +1,5 @@
+library(dplyr)
+library(ggplot2)
+unzip("./final-project/exdata_data_NEI_data.zip", exdir = "./final-project")
+NEI = readRDS("./final-project/summarySCC_PM25.rds")
+SCC = readRDS("./final-project/Source_Classification_Code.rds")

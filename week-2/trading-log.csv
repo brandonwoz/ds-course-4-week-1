@@ -1,0 +1,24 @@
+﻿trade_id,instrument,status,direction,units,timeframe,entry_time,exit_time,entry_price, exit_price , profit_target , stop_loss , highest_price , lowest_price ,macro_structure, volatility ,micro_structure,strategy,is_with_trend
+1,EURUSD,Open,Short,744,4H,2020-08-20 02:21:46,, $1.18622 ,, $1.17257 , $1.19294 ,,,CS, clean ,MCS,FB,FALSE
+2,AUDUSD,Win,Long,1199,4H,2020-08-20 06:14:54,2020-08-27 08:07:19, $0.71633 , $0.72715 , $0.72712 , $0.71216 , $0.72715 , $0.71362 ,trend, clean ,Channel,CS,TRUE
+3,AUDJPY,Win,Long,2484,4H,2020-08-20 07:36:08,2020-08-25 19:02:32, $75.79200 , $76.65500 , $76.65400 , $75.57900 , $76.65400 , $75.61300 ,trend, clean ,MCS,CS,TRUE
+4,GBPCHF,Loss,Short,991,,2020-08-20 18:40:42,2020-08-28 08:35:16, $1.19913 , $1.20362 , $1.18822 , $1.20362 , $1.20362 , $1.18916 ,trend, clean ,Channel,CS,TRUE
+5,USDCAD,Win,Short,2352,4H,2020-08-20 07:00:57,2020-08-24 06:25:53, $1.32254 , $1.31435 , $1.31437 , $1.32527 , $1.32344 , $1.31435 ,trend, clean ,Channel,CS,TRUE
+6,EURCAD,Canceled,Long,1117,,,,,,,,,,,,,,
+7,GBPUSD,Win,Long,1161,4H,2020-08-24 09:35:12,2020-08-26 08:51:03, $1.30690 , $1.31828 , $1.31828 , $1.30278 , $1.31828 , $1.30537 ,trend, clean ,Channel,CS,TRUE
+8,EURJPY,Canceled,Long,1353,,,,,,,,,,,,,,
+9,USDCAD,Canceled,Short,1697,,,,,,,,,,,,,,
+10,EURGBP,Canceled,Short,1446,,,,,,,,,,,,,,
+11,EURJPY,Loss,Long,1241,4H,2020-08-25 06:02:52,2020-08-26 06:18:13, $125.76900 , $125.34700 , $126.62700 , $125.34700 , $126.14200 , $125.34700 ,trend, clean ,MCS,BO,TRUE
+12,CHFJPY,Canceled,Long,1780,,,,,,,,,,,,,CS,
+13,GBPJPY,Open,Long,442,DAILY,2020-08-26 09:30:48,, $140.29800 ,, $143.23700 , $139.11800 ,,,CS, unclean ,SCS,BO,TRUE
+14,CHFJPY,Win,Long,1303,4H,2020-08-27 02:18:54,2020-08-27 20:47:43, $116.56300 , $117.40100 , $117.40100 , $116.15300 , $117.40100 , $116.38400 ,trend, unclean ,Channel,CS,FALSE
+15,EURAUD,Loss,Long,1056,4H,2020-08-26 11:11:21,2020-08-27 06:03:52, $1.63505 , $1.62844 , $1.65105 , $1.62845 , $1.63649 , $1.62844 ,CS, clean ,LCS,CS,FALSE
+16,AUDCAD,Loss,Short,1704,4H,2020-08-26 16:09:13,2020-08-27 02:36:25, $0.94956 , $0.95344 , $0.94385 , $0.95343 , $0.95344 , $0.94956 ,trend, clean ,Channel,CS,FALSE
+17,NZDUSD,Loss,Short,1206,4H,2020-08-26 14:46:10,2020-08-27 08:15:01, $0.66216 , $0.66635 , $0.65286 , $0.66634 , $0.66635 , $0.66004 ,trend, unclean ,Channel,CS,FALSE
+21,USDCHF,Open,Short,1340,4H,2020-08-28 07:53:09,, $0.90475 ,, $0.89269 , $0.90817 ,,,CS, clean ,PBO,BO,TRUE
+19,USDCAD,Canceled,Short,1710,,,,,,,,,,,,,,
+20,EURAUD,Canceled,Short,1532,,,,,,,,,,,,,,
+22,EURJPY,Open,Long,2074,4H,2020-08-28 09:11:39,, $125.21300 ,, $125.97100 , $124.95400 ,,,CS, unclean ,SCS,CS,TRUE
+23,CHFJPY,Open,Long,1339,4H,2020-08-28 08:21:34,, $116.47600 ,, $117.29500 , $116.07100 ,,,trend, unclean ,SCS,CS,TRUE
+18,AUDJPY,Pending,Long,582,,,,,,,,,,,,,,
